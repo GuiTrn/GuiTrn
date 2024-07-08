@@ -8,9 +8,14 @@
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kotlin.svg' alt='kotlin' height='40'>](k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](d)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>](https://fr.wikipedia.org/wiki/C_Sharp#:~:text=C%23%20est%20un%20langage%20de,ou%20des%20biblioth%C3%A8ques%20de%20classes.)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>](p)
+## Development Tools
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/intellijidea.svg' alt='intellijidea' height='40'>](m)
 ## Art Skills
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](p)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='adobeillustrator' height='40'>](p)
+
+## Social Links
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/guillaume-tournan-a20091269//)
 
 
 
