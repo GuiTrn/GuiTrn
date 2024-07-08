@@ -1,6 +1,22 @@
 ![Banner](https://github.com/GuiTrn/GuiTrn/raw/main/githubbanner.png)
+## Profile
+## Development Skills
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unrealengine.svg' alt='unrealengine' height='40'>](https://www.unrealengine.com/fr)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://fr.wikipedia.org/wiki/C%2B%2B)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kotlin.svg' alt='kotlin' height='40'>](k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](d)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>](https://fr.wikipedia.org/wiki/C_Sharp#:~:text=C%23%20est%20un%20langage%20de,ou%20des%20biblioth%C3%A8ques%20de%20classes.)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='40'>](p)
+## Art Skills
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](p)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='adobeillustrator' height='40'>](p)
+
+
 
 ## Projects
-- [Project 1](https://github.com/GuiTrn/project1): Description of project 1.
-- [Project 2](https://github.com/GuiTrn/project2): Description of project 2.
-- [Project 3](https://github.com/GuiTrn/project3): Description of project 3.
+| Name | Description  | Status  
+| :------------ |:---------------:| -----:|
+| pineapple-social-kit-v1     | A kit to create your social network | 50% |
+| pineapple-social-kit-api-v1  | The API for pineapple-social-kit-v1  | 20%        |
+
