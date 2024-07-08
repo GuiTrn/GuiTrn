@@ -1,5 +1,13 @@
 ![Banner](https://github.com/GuiTrn/GuiTrn/raw/main/githubbanner.png)
 ## Profile
+🚀  Guillaume
+🐸 20 Yo
+
+France
+
+👩‍💻 Student (ENI Application Conceptor & Development 
+
+
 ## Development Skills
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unrealengine.svg' alt='unrealengine' height='40'>](https://www.unrealengine.com/fr)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
@@ -24,12 +32,4 @@
 ## Social Links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/guillaume-tournan-a20091269//)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](l)
-
-
-
-## Projects
-| Name | Description  | Status  
-| :------------ |:---------------:| -----:|
-| pineapple-social-kit-v1     | A kit to create your social network | 50% |
-| pineapple-social-kit-api-v1  | The API for pineapple-social-kit-v1  | 20%        |
 
